@@ -48,9 +48,11 @@ def main():
         
     hosts = ["host1", "host2", "host3"]
     ips = ["10.0.0.1", "10.0.0.2", "10.0.0.3"]
+    
+    hosting_pairs = zip(ips, hosts)
         
-    for ip, host in zip(ips, hosts):
-        print(f"")     
+    for pair in hosting_pairs:
+        print(pair)     
         
         
         

@@ -54,20 +54,5 @@ def main():
     print(old_friends)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     main()

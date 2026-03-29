@@ -53,13 +53,7 @@ def main():
         
     for pair in hosting_pairs:
         print(pair)     
-        
-        
-        
-        
-        
-        
-        
+                
         
     
 if __name__ == "__main__":
